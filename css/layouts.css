@@ -1,0 +1,12 @@
+
+img {
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+}
+#photo-template {
+  display: none;
+}
+section {
+  float: left;
+}
