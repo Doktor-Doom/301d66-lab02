@@ -1,11 +1,11 @@
 # 301d66-lab02
 Lab 02
 
-Number and name of feature
-Estimate of time needed to complete:
+Number and name of feature: all 3?
+Estimate of time needed to complete: N/A
 Start time:6.27am
-Finish time:
-Actual time needed to complete:
+Finish time:8.19am
+Actual time needed to complete: 2hrs-10min
 
 
 from kevins work
