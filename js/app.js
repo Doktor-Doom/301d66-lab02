@@ -47,3 +47,13 @@ Horn.dropDown = () => {
   })
 }
 
+$('select').on('change', grip);
+
+function grip(event) {
+  $('section').hide();
+  hornArr.forEach((object) => {
+    if(event.target.value === object.keyword) {
+      $(`section[id = ${object.keyword}]`).show();
+    }
+  });
+}
