@@ -1,6 +1,13 @@
 # 301d66-lab02
 Lab 02
 
+Number and name of feature
+Estimate of time needed to complete:
+Start time:6.27am
+Finish time:
+Actual time needed to complete:
+
+
 from kevins work
 
 <!-- # lab-02
