@@ -21,3 +21,15 @@ class Horn {
   }
 }
 
+Horn.prototype.render = function() {
+  const template = $('#photo-template').html();
+  const $newSection = $(`<section id="${this.keyword}">${template}</section>`);
+
+  $newSection.find('h2').text(this.title);
+  $newSection.find('p').text(`${this.description}. How many horns ${this.horns}`);
+  
+  $newSection.find('img').attr('src', this.imgUrl);
+  $newSection.find('img').attr('title', this.title);
+
+  $('main').append($newSection);
+}
