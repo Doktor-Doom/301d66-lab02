@@ -33,3 +33,17 @@ Horn.prototype.render = function() {
 
   $('main').append($newSection);
 }
+
+Horn.dropDown = () => {
+  let tempArr = [];
+  hornArr.forEach(value => {
+    if (!tempArr.includes(value.keyword)) {
+      tempArr.push(value.keyword);
+    }
+  })
+  tempArr.forEach(value => {
+    const $newOpTag = $(`<option value="${value}">${value}</option>`);
+    $('select').append($newOpTag);
+  })
+}
+
