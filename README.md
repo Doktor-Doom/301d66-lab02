@@ -3,7 +3,7 @@ Lab 02
 
 from kevins work
 
-# lab-02
+<!-- # lab-02
 
 ## Over-View
 had some help from Chance H. Sara R. and Taylor J.
@@ -34,4 +34,4 @@ Actual time needed to complete: 2hrs
 Estimate of time needed to complete:1hr
 Start time: 4:06pm
 Finish time: 4:34pm
-Actual time needed to complete: about 30 min
+Actual time needed to complete: about 30 min -->
