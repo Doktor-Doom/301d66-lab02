@@ -3,8 +3,8 @@
 const hornArr = [];
 
 $.ajax('data/page-1.json', {method: 'GET', dataType: 'JSON' })
-  .then(hornInf => {
-    hornInf.forEach(horn => {
+  .then(allTheHorns => {
+    allTheHorns.forEach(horn => {
       new Horn(horn).render();
     })
   })
