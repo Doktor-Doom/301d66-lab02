@@ -6,8 +6,9 @@ body{
   display: flex;
   text-align: center;
   justify-items: auto;
-  font-family: 'Grandstander', cursive;
-  background-color: rgb(224, 143, 143);
+  font-family: sans-serif;
+  background-color: rgb(235, 159, 206);
+  background-blend-mode: color;
 }
 h1 {
   margin-top: 10px;
