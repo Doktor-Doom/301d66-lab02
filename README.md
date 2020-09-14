@@ -8,10 +8,16 @@ Finish time:8.19am
 Actual time needed to complete: 2hrs-10min
 
 
-from kevins work
+
+
+Number and name of feature: all 3?
+Estimate of time needed to complete: N/A
+Start time:12.15pm
+Finish time:4.30pm
+Actual time needed to complete: 2hrs-10min
 
 <!-- # lab-02
-
+from kevins work
 ## Over-View
 had some help from Chance H. Sara R. and Taylor J.
 

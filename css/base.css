@@ -1,4 +1,4 @@
-
+/* 
 * {
   box-sizing: border-box;
 }
@@ -28,5 +28,14 @@ p {
   margin-top: 20px;
   height:200px;
   width: 200px;
+  text-align: center;
+} */
+
+* {
+  background-color: rgb(204, 147, 147);
+  font-family: "Grandstander", cursive;
+}
+h2 {
+  font-size: x-large;
   text-align: center;
 }
